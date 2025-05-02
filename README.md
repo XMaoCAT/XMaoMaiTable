@@ -56,6 +56,12 @@ ITO的粘贴和定位：
 ![a891f49ffdc61b3640403c697c1059ee](https://github.com/user-attachments/assets/af15a86e-38da-4231-a40a-a589b33c54ad)
 这里我由于没镜像导致判定区全反了（） 也是吸取教训了
 
+关于按键程序
+-
+正常的光眼一般由这种信号传输格式，您购买按键组装时请留意一下，方便您直接安装和测试按键避免因为接反导致的按键疯狂触发或者按着没反应。
+![image](https://github.com/user-attachments/assets/ce9a8840-bfd1-4022-b11f-08f1323eac2e)
+
+
 
 关于材料购买
 -----------------------------
